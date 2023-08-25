@@ -1,0 +1,6 @@
+.textarea{
+    text-align: center;
+    margin-bottom: 20px;
+    margin: 0 auto; /* adição de margem automática */
+    min-width: 50%; /* valor de exemplo */
+}
